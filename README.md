@@ -4,12 +4,17 @@ Este repositório contém um conjunto de mão na massa de projetos pessoais meus
 
 ---
 1- Verificador de senha: 🛠️ Em desenvolvimento
+<br>
 Um script inteligente que não apenas diz se sua senha é boa, mas faz uma análise detalhada baseada em critérios de segurança cibernética.
 
 2- Bot de análise de preços: 📅 Planejado
+<br>
+
 Um automatizador focado em economia, que monitora variações de preço e ajuda na tomada de decisão para compras baseadas em orçamentos definidos.
 
 3- Organizador de tarefas: 📅 Planejado
+<br>
+
 Um gerenciador para ajudar no dia a dia.
 
 ---
